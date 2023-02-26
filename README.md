@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Preview
+
+https://user-images.githubusercontent.com/80221984/221385117-68af5ec3-2a32-439a-a764-c0987e713229.mp4
+
+# Description
+- By collecting the matching information of the player you entered with a random football player, you are trying to find the right football player with hints.
+- Ranking Players in the game fifa 23 are sorted by overall rating.
+- To set the number of player pool width, change the Player_size value in the 7th line command in app.js according to you.
+- You can start the game by starting the app.js file with npm start
+- Enjoy!!
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
